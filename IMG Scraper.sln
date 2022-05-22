@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMG Scraper", "IMG Scraper\IMG Scraper.csproj", "{775EBF93-5B2B-4420-BB66-09157B7DEF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775EBF93-5B2B-4420-BB66-09157B7DEF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775EBF93-5B2B-4420-BB66-09157B7DEF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775EBF93-5B2B-4420-BB66-09157B7DEF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775EBF93-5B2B-4420-BB66-09157B7DEF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA90F8F4-7DBE-4B75-8319-FEB4FABEE2CA}
+	EndGlobalSection
+EndGlobal
