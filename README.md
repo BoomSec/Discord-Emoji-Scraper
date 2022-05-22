@@ -15,4 +15,4 @@ This is how a discord emoji ID works
 
 I wish anyone that wants to help the very best, and good luck.
 
-- Boom
+-Boom
