@@ -5,6 +5,8 @@ It will then check to see if an emoji is attached ot that link. If there is an e
 I put it here so if anyone wants to improve the code, maybe make it run faster because if this were to be run at a larger scale. It would likely be recognised as a DDOS attack.
 Here is a link that may help us on our search;
 
+Example Link https://cdn.discordapp.com/emojis/1003993508719366204.png?v=1&size=100
+
 https://discord.com/developers/docs/reference#snowflakes
 
 If you want to help on this search, be my guest
